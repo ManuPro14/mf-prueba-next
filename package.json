@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@angular/elements": "^19.2.3",
+    "@angular/elements": "^19.2.18",
     "axios": "^1.8.4",
     "lucide-react": "^0.483.0",
     "next": "15.2.3",
